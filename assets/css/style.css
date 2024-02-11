@@ -5,7 +5,7 @@
 }
 
 body {
-  background: red;
+  background: url('../image/liverpool-image.jpeg') no-repeat center;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -13,7 +13,7 @@ body {
 }
 
 .container {
-  background: yellow;
+  background-color: rgba(355, 120, 0, 0.5);
   width: 100%;
   margin: 100px auto 0;
   padding: 40px;
@@ -22,9 +22,9 @@ body {
 }
 
 .container h1 {
-  border-bottom: 5px solid black;
   padding-bottom: 80px;
   font-size: x-large;
+  color: #fff;
 }
 
 .quiz-area {
@@ -34,6 +34,7 @@ body {
 .quiz-area h2 {
   font-weight: 500;
   padding-bottom: 40px;
+  color: #fff;
 }
 
 .btn {
