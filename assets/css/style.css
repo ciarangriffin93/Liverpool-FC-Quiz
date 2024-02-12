@@ -13,18 +13,19 @@ body {
 }
 
 .container {
-  background-color: rgba(355, 120, 0, 0.5);
+  background-color: red;
   width: 100%;
   margin: 100px auto 0;
-  padding: 40px;
+  padding: 100px;
   max-width: 600px;
   border-radius: 20px;
 }
 
-.container h1 {
-  padding-bottom: 80px;
-  font-size: x-large;
+h1 {
+  font-size: 50px;
+	font-weight: 200;
   color: #fff;
+  padding: 80px;
 }
 
 .quiz-area {
