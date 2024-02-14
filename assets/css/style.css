@@ -6,10 +6,9 @@
 
 body {
   background: url('../image/youll-never-walk-alone.jpeg') no-repeat center;
+  background-size: cover;
   text-align: center;
-  background-size: cover; s
-  background-repeat: no-repeat;
-  background-position: center;
+  margin: 50px;
 }
 
 header {
