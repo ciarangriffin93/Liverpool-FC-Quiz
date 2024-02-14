@@ -5,20 +5,32 @@
 }
 
 body {
-  background-color: rgba(242, 255, 0, 0.864); no-repeat center;
+  background: url('../image/youll-never-walk-alone.jpeg') no-repeat center;
   text-align: center;
   background-size: cover; s
   background-repeat: no-repeat;
   background-position: center;
 }
 
-.container {
+header {
   background-color: rgba(255, 0, 0, 0.741);
   width: 100%;
   margin: 100px auto 0;
-  padding: 100px;
+  padding: 50px;
   max-width: 600px;
   border-radius: 20px;
+  border: 5px solid #000000;
+}
+
+.container {
+  background-color: rgba(255, 0, 0, 0.741);
+  display: inline-block;
+  flex-direction: row;
+  padding: 50px;
+  margin: 100px;
+  border: 5px solid #000000;
+  border-radius: 20px;
+
 }
 
 .quiz-area {
