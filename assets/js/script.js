@@ -102,3 +102,23 @@ const Questions = [
   },
 
 ];
+
+function startQuiz()
+
+
+function showQuestion()
+
+
+function resetState()
+
+
+function questionAnswer()
+
+
+function NextButton()
+
+
+function showScore()
+
+
+startQuiz()
