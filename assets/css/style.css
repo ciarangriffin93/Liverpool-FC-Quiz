@@ -5,27 +5,20 @@
 }
 
 body {
-  background: url('../image/liverpool-image.jpeg') no-repeat center;
+  background-color: rgba(242, 255, 0, 0.864); no-repeat center;
   text-align: center;
-  background-size: cover;
+  background-size: cover; s
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .container {
-  background-color: red;
+  background-color: rgba(255, 0, 0, 0.741);
   width: 100%;
   margin: 100px auto 0;
   padding: 100px;
   max-width: 600px;
   border-radius: 20px;
-}
-
-h1 {
-  font-size: 50px;
-	font-weight: 200;
-  color: #fff;
-  padding: 80px;
 }
 
 .quiz-area {
