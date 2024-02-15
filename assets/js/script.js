@@ -1,6 +1,6 @@
-// Const Questions 
+// Questions 
 
-const Questions = [
+let Questions = [
   {
     question: "When was Liverpool Fc founded?",
     answers: [
