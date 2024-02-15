@@ -103,6 +103,13 @@ let Questions = [
 
 ];
 
+const questtion = document.getElementById("question")
+const answerBtn = document.getElementById("answer-btn")
+const userScore = document.getElementById("user-score")
+const totalScore = document.getElementById("total-score")
+const prevBtn = document.getElementById("prev")
+const nextBtn = document.getElementById("next")
+
 function startQuiz()
 
 
