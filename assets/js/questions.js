@@ -102,30 +102,3 @@ let questions = [
   }
 
 ];
-
-const questtion = document.getElementById("question")
-const answerBtn = document.getElementById("answer-btn")
-const userScore = document.getElementById("user-score")
-const totalScore = document.getElementById("total-score")
-const prevBtn = document.getElementById("prev-btn")
-const nextBtn = document.getElementById("next-btn")
-
-function startQuiz()
-
-
-function showQuestion()
-
-
-function resetState()
-
-
-function questionAnswer()
-
-
-function NextButton()
-
-
-function showScore()
-
-
-startQuiz()
