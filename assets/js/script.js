@@ -110,6 +110,9 @@ const totalScore = document.getElementById("total-score")
 const prevBtn = document.getElementById("prev-btn")
 const nextBtn = document.getElementById("next-btn")
 
+prevBtn.addEventListener("click",prev);
+nextBtn.addEventListener("click",next);
+
 function startQuiz()
 
 
