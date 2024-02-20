@@ -25,26 +25,36 @@
 
   </header>
 
-    <div class="container">
-      
-      <div class="score"><span id="user-score">0</span><span>/</span><span id="total-score"></span>0</div>
+    <div class="container" id="quiz">
 
     <div class="quiz-area">
-    
+      
       <h2 id="question">Quesstion here</h2>
 
-    <div id="answer-btn" class="answered">
-      <button class="btn">Answer A</button>
-      <button class="btn">Answer B</button>
-      <button class="btn">Answer C</button>
-      <button class="btn">Answer D</button>
+      <ul>
+        <li>
+          <input type="radio" name="answer" id="a" class="answer">
+          <label for="a" id="a_text">Answers</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="b" class="answer">
+          <label for="b" id="b_text">Answers</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="c" class="answer">
+          <label for="c" id="c_text">Answers</label>
+        </li>
+        <li>
+          <input type="radio" name="answer" id="d" class="answer">
+          <label for="d" id="d_text">Answers</label>
+        </li>
+      </ul>
       </div>
       
-      <button id="prev-btn">Prev</button>
-      <button id="next-btn">Next</button>
-
-      </div>
-    </div>
+      <dvi class="quiz-footer">
+        <div class="quiz-details">1 of 10 Questions</div>
+        <button type="button" id="btn">Next</button>
+      </dvi>
 
 
   
