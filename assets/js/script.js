@@ -108,3 +108,11 @@ const questions = [
   }
 
 ];
+
+//ref to html
+const quiz = document.querySelector(".quiz-area");
+const answerEl = document.querySelectorAll(".answer");
+const questionEl = document.getElementById("question");
+const footerEl = document.querySelector(".quiz-footer");
+const quizDetailEl = document.querySelector(".quiz-details");
+
