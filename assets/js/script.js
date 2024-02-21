@@ -1,4 +1,4 @@
-"use strict"
+//Questions for Quiz
 const quizData = [
   {
     question: "When was Liverpool Fc founded?",
@@ -129,6 +129,8 @@ let score = 0;
 
 loadQuiz();
 
+//Function to show quiz Questions
+
 function loadQuiz(){
   deselectAnswer()
   const currentQuizData = quizData[currentQuiz];
@@ -176,7 +178,7 @@ btnsubmit.addEventListener("click", () => {
     
     } else {
       quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
-      <button type="button" onclick="location()">Reload</button>`;
+      <button type="button" onclick="location.reload()">Play Again</button>`;
     }
   }
 })
