@@ -11,7 +11,6 @@ const b_text = document.getElementById("b_text");
 const c_text = document.getElementById("c_text");
 const d_text = document.getElementById("d_text");
 
-//question arry
 
 let currentQuiz = 0;
 let score = 0;
@@ -27,12 +26,25 @@ function loadQuiz(){
   b_text.innerText = currentQuizData.b;
   c_text.innerText = currentQuizData.c;
   d_text.innerText = currentQuizData.d;
+
+  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} of ${quizData.length}
+   Questions</p>`;
 }
 
 function deselectAnswer() {
   answerEl.forEach((answerEl) => {
     answerEl.checked = false;
   });
+}
+
+function getSelected() {
+  let answer;
+  answerEl.forEach((answerEls) => {
+    if (answerEls.checked) {
+      answer = answerEls.id
+    }
+  });
+  return answer;
 }
 
 
