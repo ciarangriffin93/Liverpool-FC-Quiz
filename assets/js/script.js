@@ -10,6 +10,7 @@ const a_text = document.getElementById("a_text");
 const b_text = document.getElementById("b_text");
 const c_text = document.getElementById("c_text");
 const d_text = document.getElementById("d_text");
+const btnsubmit = document.getElementById("btn");
 
 
 let currentQuiz = 0;
@@ -40,12 +41,36 @@ function deselectAnswer() {
 function getSelected() {
   let answer;
   answerEl.forEach((answerEls) => {
+    
     if (answerEls.checked) {
-      answer = answerEls.id
+      answer = answerEls.id;
     }
   });
   return answer;
 }
+
+btnsubmit.addEventListener("click", () => {
+  const answer = getSelected();
+
+  if(answer) {
+    
+    if (answer === quizData[currentQuiz].correct) {
+      score++;
+    }
+
+    currentQuiz++;
+
+    if(currentQuiz < quizData.length) {
+      loadQuiz();
+    
+    } else {
+      quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
+      <button type="button" onclick="location()">Reload</button>`;
+    }
+  }
+});
+
+
 
 
 
