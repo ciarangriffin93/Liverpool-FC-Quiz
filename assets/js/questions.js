@@ -1,6 +1,6 @@
 // Questions 
 
-const quizData = [
+const questions = [
   {
     question: "When was Liverpool Fc founded?",
     a: "1980",
