@@ -84,5 +84,33 @@ header {
   opacity: 1;
 }
 
+@media screen and (max-width: 414px) {
 
+  header {
+    margin: 5px auto 0;
+    padding: 70px;
+  }
+  
+  .container {
+    margin: 5px auto 0;
+    padding: 2px;
+  }
+
+  quiz-area ul li {
+    background: #fff;
+    padding: 20x;
+    margin: 10px 0;
+    text-align: left; 
+  }
+
+  .quiz-area ul li label {
+    padding: 10px;
+  }
+
+  .quiz-area {
+    padding: 5px;
+    margin: 0px;
+  }
+
+}
 
