@@ -170,18 +170,22 @@ btnsubmit.addEventListener("click", () => {
     if (answer === quizData[currentQuiz].correct) {
       score++;
     }
-
-    currentQuiz++;
-
-    if(currentQuiz < quizData.length) {
-      loadQuiz();
-    
-    } else {
-      quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
-      <button type="button" onclick="location.reload()">Play Again</button>`;
-    }
+    nextQuestion()
   }
-})
+  })
+
+function nextQuestion() {
+  currentQuiz++;
+
+  if(currentQuiz < quizData.length) {
+    loadQuiz();
+  
+  } else {
+    quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
+    <button type="button" onclick="location.reload()">Play Again</button>`;
+    footerEl.style.display = "none";
+  }
+}
 
 
 
