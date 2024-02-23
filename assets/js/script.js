@@ -121,7 +121,8 @@ const a_text = document.getElementById("a_text");
 const b_text = document.getElementById("b_text");
 const c_text = document.getElementById("c_text");
 const d_text = document.getElementById("d_text");
-const btnsubmit = document.getElementById("btn");
+const btnNext = document.getElementById("btn-next");
+const btnPrev = document.getElementById("btn-prev");
 
 
 let currentQuiz = 0;
@@ -162,7 +163,14 @@ function getSelected() {
   return answer;
 }
 
-btnsubmit.addEventListener("click", () => {
+btnPrev.addEventListener("click", () => {
+  if (currentQuiz != 0) {
+    currentQuiz--;
+    nextQuestion();
+  }
+});
+
+btnNext.addEventListener("click", () => {
   const answer = getSelected();
 
   if(answer) {
@@ -170,12 +178,12 @@ btnsubmit.addEventListener("click", () => {
     if (answer === quizData[currentQuiz].correct) {
       score++;
     }
+    currentQuiz++;
     nextQuestion()
   }
-  })
+})
 
 function nextQuestion() {
-  currentQuiz++;
 
   if(currentQuiz < quizData.length) {
     loadQuiz();
