@@ -84,7 +84,6 @@ header a {
   justify-content: space-between;
   padding: 1rem 2rem;
   box-shadow: 2px 2px 10px #000000;
-  font-family: 'Open+Sans', sans-serif;
 }
 
 .quiz-footer button {
@@ -95,8 +94,14 @@ header a {
   box-shadow: 2px 2px 10px #000000;
 }
 
-.quiz-footer button:hover {
-  opacity: 1;
+button {
+  display: flow-root;
+  width: 50%;
+  margin: 100px auto 0;
+  padding: 20px;
+  color: #000000;
+  background: linear-gradient(rgba(252, 205, 233, 0.7),rgba(0, 0, 0, 0.7));
+  text-decoration: none;
 }
 
 @media screen and (max-width: 414px) {
