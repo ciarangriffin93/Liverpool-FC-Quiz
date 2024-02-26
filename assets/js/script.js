@@ -123,28 +123,11 @@ const c_text = document.getElementById("c_text");
 const d_text = document.getElementById("d_text");
 const btnNext = document.getElementById("btn-next");
 const btnPrev = document.getElementById("btn-prev");
-const timer = document.getElementById("timer");
 
-let sec = 60;
-let time = setInterval(myTimer, 1000);
 let currentQuiz = 0;
 let score = 0;
 
 loadQuiz();
-
-//Timer
-
-function myTimer() {
-  timer.innerHTML = sec + "sec left";
-  sec--;
-  if (sec == -1) {
-
-    clearInterval(time);
-    alert("Time out!! :(");
-
-    location.reload();
-  }
-}
 
 //Function to show quiz Questions
 
