@@ -54,6 +54,17 @@ span {
   font-size: larger;
 }
 
+.container ol {
+  padding: 20px;
+  margin: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.container li {
+  text-align: left;
+}
+
 .quiz-area {
   padding: 30px;
   margin: 20px;
