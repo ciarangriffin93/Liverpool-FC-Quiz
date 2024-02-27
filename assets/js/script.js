@@ -158,7 +158,7 @@ function loadQuiz(){
   c_text.innerText = currentQuizData.c;
   d_text.innerText = currentQuizData.d;
 
-  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} of ${quizData.length}
+  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} out of ${quizData.length}
    Questions</p>`;
 }
 
@@ -208,6 +208,7 @@ function nextQuestion() {
     quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
     <button type="button" onclick="location.reload()">Play Again</button>`;
     footerEl.style.display = "none";
+    timer.style.display = "none";
   } 
 }
 
