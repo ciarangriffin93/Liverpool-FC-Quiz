@@ -49,6 +49,11 @@ header a {
   text-decoration: none;
 }
 
+span {
+  color: #fff;
+  font-size: larger;
+}
+
 .quiz-area {
   padding: 30px;
   margin: 20px;
