@@ -21,6 +21,7 @@ header {
   max-width: 600px;
   border-radius: 20px;
   border: 5px solid #000000;
+  font-family: 'Open+Sans', sans-serif;
 }
 
 header a {
@@ -36,7 +37,6 @@ header a {
   max-width: 600px;
   border-radius: 20px;
   border: 5px solid #000000;
-  font-family: 'Roboto', sans-serif;
 }
 
 .container a {
@@ -63,6 +63,10 @@ span {
 
 .container li {
   text-align: left;
+}
+
+h2 {
+  font-family: 'Open+Sans', sans-serif;
 }
 
 .quiz-area {
