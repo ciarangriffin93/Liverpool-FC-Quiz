@@ -1,4 +1,5 @@
 //Questions for Quiz
+/*jshint esversion: 6 */
 const quizData = [
   {
     question: "When was Liverpool Fc founded?",
@@ -149,7 +150,7 @@ loadQuiz();
 //Function to show quiz Questions
 
 function loadQuiz(){
-  deselectAnswer()
+  deselectAnswer();
   const currentQuizData = quizData[currentQuiz];
 
   questionEl.innerText = currentQuizData.question;
@@ -195,9 +196,9 @@ btnNext.addEventListener("click", () => {
       score++;
     }
     currentQuiz++;
-    nextQuestion()
+    nextQuestion();
   }
-})
+});
 
 function nextQuestion() {
 
@@ -210,7 +211,7 @@ function nextQuestion() {
     footerEl.style.display = "none";
     timer.style.display = "none";
   } 
-};
+}
 
 
 
