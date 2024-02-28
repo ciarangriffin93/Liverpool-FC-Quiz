@@ -158,7 +158,7 @@ function loadQuiz(){
   c_text.innerText = currentQuizData.c;
   d_text.innerText = currentQuizData.d;
 
-  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} out of ${quizData.length}
+  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} of ${quizData.length}
    Questions</p>`;
 }
 
