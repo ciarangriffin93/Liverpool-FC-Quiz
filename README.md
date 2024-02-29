@@ -14,7 +14,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 * I used Balsamiq (https://balsamiq.com/wireframes) to design the wireframes for my website.
 
-### Desktop:
+#### Desktop:
 <details>
 
 ![Desktop Home page](/assets/image/Browser-Home.png)
@@ -45,7 +45,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 *  The homepage welcomes the user to the Liverpool Quiz and provides instructions on how to play the game and Rule.
 
-![Home Page](/assets/image/Game-Rule.png)
+![Home Page](/assets/image/Home-page.png)
 
 * To start playing, click on "play now" to answer some questions.
 
