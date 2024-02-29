@@ -29,7 +29,38 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## Features
 
-#### Home Page
+#### Home Page:
 
 *  The homepage welcomes the user to the Liverpool Quiz and provides instructions on how to play the game and Rule.
-![Home Page]
+
+![Home Page](/assets/image/Game-Rule.png)
+
+* To start playing, click on "play now" to answer some questions.
+
+ ![Click on play](/assets/image/Click-play.png)
+
+#### Quiz Page: 
+
+* The logo on the website is clickable and will take to the homepage.
+
+![clockable on logo](/assets/image/Click-back-home-page.png)
+
+* There are four buttons available that provide different answer options for a given question.
+
+![Buttons](/assets/image/Button-question.png)
+
+* Answer the question within 60 seconds using the timer.
+
+![Timer](/assets/image/Timer.png)
+
+* After the user provides the answer, this will have the option to click on the 'Next Question' button.
+
+![Next Question](/assets/image/Next-Question.png)
+
+#### Result:
+
+* This result shows the answer to the question.
+
+* Use the 'onclick' attribute to enable the 'play again'
+
+![Result and play again](/assets/image/Result.png)
