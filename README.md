@@ -6,6 +6,10 @@
 
 This is a quiz about the history of Liverpool Football Club. Users will be asked ten quiz questions and must answer all correctly within 60 seconds. 
 
+## UX
+
+The goal is to create a responsive website for a quiz with a graphical user interface using HTML, CSS, and JavaScript.
+
 ## WireFrames
 
 #### Desktop:
