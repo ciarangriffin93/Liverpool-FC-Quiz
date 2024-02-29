@@ -26,3 +26,10 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 ![Mobile Home page](/assets/image/Iphone-Home.png)
 ![Mobile Answer page](/assets/image/Iphone-Answer.png)
 ![Mobile Result page](/assets/image/Iphone-Result.png)
+
+## Features
+
+#### Home Page
+
+*  The homepage welcomes the user to the Liverpool Quiz and provides instructions on how to play the game and Rule.
+![Home Page]
