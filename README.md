@@ -76,3 +76,28 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 * Use the 'onclick' attribute to enable the 'play again'
 
 ![Result and play again](/assets/image/Result.png)
+
+## Technologies Used
+
+languages used:
+* [HTML](https://en.wikipedia.org/wiki/HTML): Structure a web and use it for content.
+
+* [CSS](https://en.wikipedia.org/wiki/CSS): CSS used for the main site design and layout.
+
+* [Javasript](https://en.wikipedia.org/wiki/JavaScript): As dynamic functions language.
+
+* [Git](https://git-scm.com): Used write Git to commit and push the code for the development of the website. 
+
+* [Gitpod](https://gitpod.io): Cloud IDE was used to write, commit, and push code to GitHub.
+
+* [Github](https://github.com): Used frequently to commit and push code.
+
+* [Favicon](https://www.hoststar.at/en/content/website-favicon-generator): A favicon is a small icon that appears on the web browser tab of a website.
+
+* [W3C HTML Validator](https://validator.w3.org/#validate_by_input): Validate HTML code.
+
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): Validate CSS code.
+
+* [JShint Javascript Validator](https://jshint.com/): Validate Javascript code.
+
+
