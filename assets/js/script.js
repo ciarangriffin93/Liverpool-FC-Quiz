@@ -1,4 +1,5 @@
 /*jshint esversion: 6 */
+
 //ref to html
 const quiz = document.querySelector(".quiz-area");
 const answerEl = document.querySelectorAll(".answer");
@@ -39,7 +40,7 @@ loadQuiz();
 
 function loadQuiz(){
   deselectAnswer();
-  const currentQuizData = quizData[currentQuiz];
+  const currentQuizData = questions[currentQuiz];
 
   questionEl.innerText = currentQuizData.question;
   a_text.innerText = currentQuizData.a;
@@ -47,7 +48,7 @@ function loadQuiz(){
   c_text.innerText = currentQuizData.c;
   d_text.innerText = currentQuizData.d;
 
-  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} of ${quizData.length}
+  quizDetailEl.innerHTML = `<p>${currentQuiz + 1} of ${questions.length}
    Questions</p>`;
 }
 
@@ -80,7 +81,7 @@ btnNext.addEventListener("click", () => {
 
   if(answer) {
     
-    if (answer === quizData[currentQuiz].correct) {
+    if (answer === questions[currentQuiz].correct) {
       score++;
     }
     currentQuiz++;
@@ -90,12 +91,12 @@ btnNext.addEventListener("click", () => {
 
 function nextQuestion() {
 
-  if(currentQuiz < quizData.length) {
+  if(currentQuiz < questions.length) {
     loadQuiz();
   
   } else {
     clearInterval(time);
-    quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
+    quiz.innerHTML = `<h2> You Answered ${score}/${questions.length} Question Right</h2>
     <button type="button" onclick="location.reload()">Play Again</button>`;
     footerEl.style.display = "none";
     timer.style.display = "none";
