@@ -84,6 +84,10 @@ HTML validator
 
 ![Index.HTML](/documents/images/index.html-checker.png)
 
+* Quiz Page - [Results](https://validator.w3.org/nu/#textarea)
+
+![Quiz.Html](/documents/images/quiz.html-checker.png)
+
 ## Technologies Used
 
 languages used:
