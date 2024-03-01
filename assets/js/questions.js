@@ -1,6 +1,6 @@
-// Questions 
-
-const questions = [
+//Questions for Quiz
+/*jshint esversion: 6 */
+const quizData = [
   {
     question: "When was Liverpool Fc founded?",
     a: "1980",
