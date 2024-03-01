@@ -107,7 +107,7 @@ const quizData = [
     
   }
 
-];
+]
 
 //ref to html
 
