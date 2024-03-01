@@ -12,31 +12,31 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## WireFrames
 
-* I used Balsamiq (https://balsamiq.com/wireframes) to design the wireframes for my website.
+* I used [Balsamiq] (https://balsamiq.com/wireframes) to design the wireframes for my website.
 
 #### Desktop:
 <details>
 
-![Desktop Home page](/assets/image/Browser-Home.png)
-![Desktop Answer page](/assets/image/Browser-Answer.png)
-![Desktop Result page](/assets/image/Browser-Result.png)
+![Desktop Home page](/documents/images/browser-home.png)
+![Desktop Answer page](/documents/images/browser-questions.png)
+![Desktop Result page](/documents/images/browser-reuslt.png)
 </details>
 
 
 #### Ipad:
 <details>
 
-![Ipad Home page](/assets/image/Ipad-Home.png)
-![Ipad Answer page](/assets/image/Ipad-Answer.png)
-![Ipad Result page](/assets/image/Ipad-Result.png)
+![Ipad Home page](/documents/images/ipad-home.png)
+![Ipad Answer page](/documents/images/ipad-answer.png)
+![Ipad Result page](/documents/images/ipad-result.png)
 </details>
 
 #### Mobile:
 <details>
 
-![Mobile Home page](/assets/image/Iphone-Home.png)
-![Mobile Answer page](/assets/image/Iphone-Answer.png)
-![Mobile Result page](/assets/image/Iphone-Result.png)
+![Mobile Home page](/documents/images/iphone-home.png)
+![Mobile Answer page](/documents/images/iphone-answer.png)
+![Mobile Result page](/documents/images/iphone-result.png)
 </details>
 
 ## Features
@@ -45,29 +45,28 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 *  The homepage welcomes the user to the Liverpool Quiz and provides instructions on how to play the game and Rule.
 
-![Home Page](/assets/image/Home-page.png)
-
+![Home Page](/documents/images/home-page.png)
 * To start playing, click on "play now" to answer some questions.
 
- ![Click on play](/assets/image/Click-play.png)
+ ![Click on play](/documents/images/play-now.png)
 
 #### Quiz Page: 
 
 * The logo on the website is clickable and will take to the homepage.
 
-![clockable on logo](/assets/image/Click-back-home-page.png)
+![Clickable logo](/documents/images/clickable.png)
 
 * There are four buttons available that provide different answer options for a given question.
 
-![Buttons](/assets/image/Button-question.png)
+![Answer question](/documents/images/answer-question.png)
 
 * Answer the question within 60 seconds using the timer.
 
-![Timer](/assets/image/Timer.png)
+![Timer](/documents/images/timer.png)
 
 * After the user provides the answer, this will have the option to click on the 'Next Question' button.
 
-![Next Question](/assets/image/Next-Question.png)
+![Next Question](/documents/images/button-next-question.png)
 
 #### Result:
 
@@ -75,7 +74,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 * Use the 'onclick' attribute to enable the 'play again'
 
-![Result and play again](/assets/image/Result.png)
+![Result and play again](/documents/images/result.png)
 
 ## Technologies Used
 
