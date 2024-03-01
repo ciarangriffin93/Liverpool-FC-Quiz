@@ -126,7 +126,7 @@ const btnNext = document.getElementById("btn-next");
 const btnPrev = document.getElementById("btn-prev");
 const timer = document.getElementById("timer");
 
-let sec = 60;
+let sec = 120;
 let time = setInterval(myTimer,1000);
 let currentQuiz = 0;
 let score = 0;
