@@ -76,9 +76,9 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ![Result and play again](/documents/images/result.png)
 
-#### Testing 
+## Testing 
 
-HTML validator 
+#### HTML validator 
 
 * Home Page - [Results](https://validator.w3.org/nu/#textarea)
 
@@ -87,6 +87,14 @@ HTML validator
 * Quiz Page - [Results](https://validator.w3.org/nu/#textarea)
 
 ![Quiz.Html](/documents/images/quiz.html-checker.png)
+
+#### CSS validator
+
+* CSS Page - [Results](https://jigsaw.w3.org/css-validator/validator)
+
+![Style.css](/documents/images/css-checker.png)
+
+
 
 ## Technologies Used
 
