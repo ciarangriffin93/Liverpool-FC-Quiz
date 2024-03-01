@@ -1,5 +1,5 @@
 //Questions for Quiz
-   quizData = [
+   const quizData = [ 
   {
     question: "When was Liverpool Fc founded?",
     a: "1980",

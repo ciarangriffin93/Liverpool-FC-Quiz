@@ -12,7 +12,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## WireFrames
 
-* I used [Balsamiq] (https://balsamiq.com/wireframes) to design the wireframes for my website.
+* I used [Balsamiq](https://balsamiq.com/wireframes) to design the wireframes for my website.
 
 #### Desktop:
 <details>
