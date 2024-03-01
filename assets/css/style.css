@@ -50,6 +50,10 @@ header a {
   text-decoration: none;
 }
 
+ul, p {
+  font-weight: 700;
+}
+
 span {
   color: #fff;
   font-size: larger;
