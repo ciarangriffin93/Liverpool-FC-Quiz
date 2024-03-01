@@ -110,7 +110,6 @@ const quizData = [
 
 ];
 //ref to html
-const questionElement = document.getElementById("quizData");
 const quiz = document.querySelector(".quiz-area");
 const answerEl = document.querySelectorAll(".answer");
 const questionEl = document.getElementById("question");
