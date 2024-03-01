@@ -1,10 +1,6 @@
 //Questions for Quiz
 
-/*jshint esversion: 6 */
-
-const questionElement = document.getElementById("quizData")
-
-const quizData = [ 
+quizData = [ 
   {
     question: "When was Liverpool Fc founded?",
     a: "1980",
