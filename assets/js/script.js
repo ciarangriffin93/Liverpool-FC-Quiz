@@ -206,6 +206,7 @@ function nextQuestion() {
     loadQuiz();
   
   } else {
+    clearInterval(time);
     quiz.innerHTML = `<h2> You Answered ${score}/${quizData.length} Question Right</h2>
     <button type="button" onclick="location.reload()">Play Again</button>`;
     footerEl.style.display = "none";
