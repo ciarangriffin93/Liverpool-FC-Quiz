@@ -1,6 +1,5 @@
-/*jshint esversion: 6 */
 //Questions for Quiz
- const questions = [ 
+ quiz = [ 
   {
     question: "When was Liverpool Fc founded?",
     a: "1980",
