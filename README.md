@@ -24,6 +24,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 * As a user, I want the quiz and website to be more user-friendly.
 
+
 ## WireFrames
 
 * I used [Balsamiq](https://balsamiq.com/wireframes) to design the wireframes for my website.
