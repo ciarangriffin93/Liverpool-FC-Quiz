@@ -24,6 +24,23 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 * As a user, I want the quiz and website to be more user-friendly.
 
+## Desgin
+
+#### Color Scheme:
+
+* I used color from [coolor](https://coolors.co/). The colors will be used in specific ways that complement each other.
+
+![Color](/documents/images/color.png)
+
+#### Typogradhy:
+
+* I used 'Open+Sans' from [Google Fonts](https://fonts.google.com/) as the main font on the website, with 'Sans Serif'
+
+#### Images
+
+* I have taken some images from [Google.](https://www.goal.com/en/news/ynwa-how-youll-never-walk-alone-became-a-liverpool-fc-anthem/selbcrlre9lz1n9dat1b1e60q)
+
+
 
 ## WireFrames
 
