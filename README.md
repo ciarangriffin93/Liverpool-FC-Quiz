@@ -4,7 +4,7 @@
 
 ![Image of Dvice responsivneness](/documents/images/screenshot-ui.dev.png)
 
-This is a quiz about the history of Liverpool Football Club. Users will be asked ten quiz questions and must answer all correctly within 60 seconds. This website is an interactive quiz game. Players who enjoy challenges can test their knowledge by answering questions within a time limit.
+This is a quiz about the history of Liverpool Football Club. Users will be asked ten quiz questions and must answer all correctly within 60 seconds. Players who enjoy challenges can test their knowledge by answering questions within a time limit.
 
 Click [here](https://ciarangriffin93.github.io/Liverpool-FC-Quiz/) to see the live website.
 
