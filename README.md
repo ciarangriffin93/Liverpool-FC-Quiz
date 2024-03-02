@@ -179,13 +179,13 @@ You can fork this repository by using the following steps:
 
 #### Content:
 
-* [W3schools](https://www.w3schools.com/)This site was created using information from Code Institute and W3Schools.
+* [W3schools](https://www.w3schools.com/) This site was created using information from Code Institute and W3Schools.
 
-* [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) "This is meant to be used for learning how to use JavaScript.
+* [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) This is meant to be used for learning how to use JavaScript.
 
-* [Font Google](https://fonts.google.com/)I added a font to my project using Google Fonts.
+* [Font Google](https://fonts.google.com/) I added a font to my project using Google Fonts.
 
-* [Font Awesome](https://fontawesome.com/)I have added Font Awesome to the project.
+* [Font Awesome](https://fontawesome.com/) I have added Font Awesome to the project.
 
 
 ## Technologies Used
@@ -211,4 +211,13 @@ languages used:
 
 * [JShint Javascript Validator](https://jshint.com/): Validate Javascript code.
 
+## Acknowledgements:
+
+* I would like to thank to my mentor, Tim Nelson, for his help and unwavering support.
+
+* I would like to thank to my tutor at Code Institute for their help and unwavering support.
+
+* I would like to thank to my family for their patience, support, and understanding.
+
+* I would like to Code Institute's Slack community,and Deaf group for their support.
 
