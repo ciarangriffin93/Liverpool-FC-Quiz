@@ -171,7 +171,7 @@ A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/conf
 By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/RaymondBrien/taskbloomer)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/ciarangriffin93)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
@@ -181,7 +181,7 @@ You can fork this repository by using the following steps:
 
 * [W3schools](https://www.w3schools.com/) This site was created using information from Code Institute and W3Schools.
 
-* [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) This is meant to be used for learning how to use JavaScript.
+* [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) This is meant to be used for learning how to create a quiz in JavaScript.
 
 * [Font Google](https://fonts.google.com/) I added a font to my project using Google Fonts.
 
