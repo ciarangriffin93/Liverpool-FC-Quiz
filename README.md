@@ -26,6 +26,8 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## Desgin
 
+*  I wanted to design a Liverpool quiz that would make people feel proud of Liverpool FC.
+
 #### Color Scheme:
 
 * I used color from [coolor](https://coolors.co/). The colors will be used in specific ways that complement each other.
@@ -172,6 +174,16 @@ You can fork this repository by using the following steps:
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/RaymondBrien/taskbloomer)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+
+#### Content
+* [W3schools](https://www.w3schools.com/)This site was created using information from Code Institute and W3Schools.
+
+* [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) "This is meant to be used for learning how to use JavaScript.
+
+* [Font Google](https://fonts.google.com/)I added a font to my project using Google Fonts.
+
+* [Font Awesome](https://fontawesome.com/)I have added Font Awesome to the project.
 
 
 ## Technologies Used
