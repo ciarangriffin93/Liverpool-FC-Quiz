@@ -92,7 +92,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## Testing 
 
-#### HTML validator 
+#### HTML validator: 
 
 * Home Page - [Results](https://validator.w3.org/nu/#textarea)
 
@@ -102,11 +102,19 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ![Quiz.Html](/documents/images/quiz.html-checker.png)
 
-#### CSS validator
+#### CSS validator:
 
 * CSS Page - [Results](https://jigsaw.w3.org/css-validator/validator)
 
 ![Style.css](/documents/images/css-checker.png)
+
+#### Lighthouse Testing:
+
+* The lighthouse report showed good results.
+
+![Destop lighthouse](/documents/images/desktop-Lighthouse.png)
+
+![Moblie lighthouse](/documents/images/moblie-lighthouse.png)
 
 
 
