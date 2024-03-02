@@ -137,7 +137,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 ![Moblie lighthouse](/documents/images/moblie-lighthouse.png)
 
 
-## Deployment:
+## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
@@ -175,8 +175,10 @@ You can fork this repository by using the following steps:
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
+## Credit 
 
-#### Content
+#### Content:
+
 * [W3schools](https://www.w3schools.com/)This site was created using information from Code Institute and W3Schools.
 
 * [Youtube](https://www.youtube.com/results?search_query=javascript+quiz) "This is meant to be used for learning how to use JavaScript.
