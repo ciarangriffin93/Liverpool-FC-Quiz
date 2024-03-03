@@ -153,6 +153,14 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 | Home | Mobile | ![screenshot](/documents/images/moblie-lighthouse.png) |
 | Home | Desktop | ![screenshot](/documents/images/desktop-Lighthouse.png) |
 
+#### Bugs and Fix
+
+* JS To resolve warnings, add /*jshint esversion: 6 */ at the top of each JS file.
+
+#### Unfixed bugs
+
+* No unfixed bugs.
+
 
 ## Deployment
 
