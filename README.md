@@ -116,7 +116,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## Testing 
 
-* For all testing, please refer to the following [Here](/TESTING.md)
+* For all testing, please refer to the following [TESTING.md](/TESTING.md) file
 
 ## Future
 
