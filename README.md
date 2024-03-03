@@ -82,6 +82,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 *  The homepage welcomes the user to the Liverpool Quiz and provides instructions on how to play the game and Rule.
 
 ![Home Page](/documents/images/home-page.png)
+
 * To start playing, click on "play now" to answer some questions.
 
  ![Click on play](/documents/images/play-now.png)
@@ -134,9 +135,10 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 * The lighthouse report showed good results.
 
-![Destop lighthouse](/documents/images/desktop-Lighthouse.png)
-
-![Moblie lighthouse](/documents/images/moblie-lighthouse.png)
+| Page | Size | Screenshot |
+| --- | --- | --- |
+| Home | Mobile | ![screenshot](/documents/images/moblie-lighthouse.png) |
+| Home | Desktop | ![screenshot](/documents/images/desktop-Lighthouse.png) |
 
 
 ## Deployment
