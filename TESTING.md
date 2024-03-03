@@ -1,5 +1,25 @@
 ## Testing 
 
+#### User Story Testing
+
+* I would like to test my knowledge by taking an interesting online quiz rule.
+
+The Liverpool FC quiz is available on the website. After submitting an answer, the player can choose to try again and improve their knowledge.
+
+* I would like to understand more about quiz rule.
+
+The quiz rules were kept simple for everyone to understand and are displayed every time the quiz starts. All rules must be correct.
+
+* As a user, I would like a simple and easy way to understand quiz.
+
+The quiz rules were written in simple language for easy comprehension by all.
+
+* As a user, I want the quiz and website to be more user-friendly.
+
+The quiz app was designed with a website. Each page has a minimal number of buttons, and the color features good contrast.
+
+
+
 #### Browser:
 
 * The website is compatible with the following browsers:

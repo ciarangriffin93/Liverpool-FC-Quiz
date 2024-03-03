@@ -14,17 +14,18 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## User Stories:
 
-* I would like to test my knowledge by taking an interesting online quiz.
+* As a user, I would like to test my knowledge by taking an interesting online quiz rule.
 
-* I would like to understand more about quiz.
+* As a user, I would like to understand more about quiz.
 
-* I would like to keep track of the progress of the quiz.
+* As a user, I would like to keep track of the progress of the quiz.
 
 * As a user, I would like a simple and easy way to understand quiz.
 
 * As a user, I want to visit a quiz website to learn more.
 
 * As a user, I want the quiz and website to be more user-friendly.
+
 
 ## Desgin
 
