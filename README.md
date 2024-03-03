@@ -135,6 +135,14 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 | --- | --- | --- | 
 | style.css | ![Screenshot](/documents/images/css-checker.png) | Pass: No Errors |
 
+#### JShint:
+
+* The code passed the JSHint test successfully.
+
+| File| Screenshot | Notes |
+| --- | --- | --- | 
+| Jshint | ![Screenshot](/documents/images/jshint.png) | Pass: No Errors |
+
 
 #### Lighthouse Testing:
 
