@@ -32,7 +32,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 #### Color Scheme:
 
-* I used color from [coolor](https://coolors.co/). The colors will be used in specific ways that complement each other.
+* I used color from [coolor](https://coolors.co/) I verified that the chosen colors improve readability and enhance user experience.
 
 ![Color](/documents/images/color.png)
 
