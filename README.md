@@ -117,19 +117,24 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 #### HTML validator: 
 
-* Home Page - [Results](https://validator.w3.org/nu/#textarea)
+* The HTML code was passed without any errors being returned. [W3C Validator](https://validator.w3.org/)
 
-![Index.HTML](/documents/images/index.html-checker.png)
+| File| Screenshot | Notes |
+| --- | --- | --- | 
+| index.html | ![Screenshot](/documents/images/index.html-checker.png) | Pass: No Errors |
 
-* Quiz Page - [Results](https://validator.w3.org/nu/#textarea)
-
-![Quiz.Html](/documents/images/quiz.html-checker.png)
+| File| Screenshot | Notes |
+| --- | --- | --- | 
+| quiz.html | ![Screenshot](/documents/images/quiz.html-checker.png) | Pass: No Errors |
 
 #### CSS validator:
 
-* CSS Page - [Results](https://jigsaw.w3.org/css-validator/validator)
+* The CSS code was passed without any errors being returned. [W3C CSS](https://jigsaw.w3.org/css-validator/)
 
-![Style.css](/documents/images/css-checker.png)
+| File| Screenshot | Notes |
+| --- | --- | --- | 
+| style.css | ![Screenshot](/documents/images/css-checker.png) | Pass: No Errors |
+
 
 #### Lighthouse Testing:
 
