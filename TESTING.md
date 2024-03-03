@@ -92,6 +92,11 @@ The quiz app was designed with a website. Each page has a minimal number of butt
 | Home | Mobile | ![screenshot](/documents/images/moblie-lighthouse.png) |
 | Home | Desktop | ![screenshot](/documents/images/desktop-Lighthouse.png) |
 
+#### Feature Testing
+
+* The attempt to click the all button in the quiz was successful.
+
+
 #### Bugs and Fix:
 
 * JS To resolve warnings, add /*jshint esversion: 6 */ at the top of each JS file.
