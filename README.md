@@ -131,6 +131,24 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 | --- | --- | --- | 
 | Safari | ![Screenshot](/documents/images/browser-safari.png) | The performance meets the expected standard.|
 
+#### Responsiveness
+
+* The website is fully responsive and adjusts perfectly on various screen sizes.
+
+| Size | Screenshot | Notes |
+| --- | --- | --- | 
+| Desktop 1024x600 | ![Screenshot](/documents/images/desktop-1024x600.png) | The performance meets the expected standard.|
+
+| Size | Screenshot | Notes |
+| --- | --- | --- | 
+| Mobile 375x667 | ![Screenshot](/documents/images/mobile-375x667.png) | The performance meets the expected standard.|
+
+| Size | Screenshot | Notes |
+| --- | --- | --- | 
+| Ipad 786x1024 | ![Screenshot](/documents/images/ipad-768x1024.png) | The performance meets the expected standard.|
+
+
+
 #### HTML validator: 
 
 * The HTML code was passed without any errors being returned. [W3C Validator](https://validator.w3.org/)
