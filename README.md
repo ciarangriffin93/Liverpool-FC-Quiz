@@ -115,6 +115,22 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 ## Testing 
 
+#### Browser:
+
+* The website is compatible with the following browsers:
+
+| Browser | Screenshot | Notes |
+| --- | --- | --- | 
+| Firefox | ![Screenshot](/documents/images/browser-firefox.png) | The performance meets the expected standard.|
+
+| Browser | Screenshot | Notes |
+| --- | --- | --- | 
+| Chrome | ![Screenshot](/documents/images/browser-chrome.png) | The performance meets the expected standard.|
+
+| Browser | Screenshot | Notes |
+| --- | --- | --- | 
+| Safari | ![Screenshot](/documents/images/browser-safari.png) | The performance meets the expected standard.|
+
 #### HTML validator: 
 
 * The HTML code was passed without any errors being returned. [W3C Validator](https://validator.w3.org/)
