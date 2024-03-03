@@ -137,7 +137,7 @@ The goal is to create a responsive website for a quiz with a graphical user inte
 
 #### JShint:
 
-* The code passed the JSHint test successfully.
+* The code passed the JSHint test successfully. [JSHint](https://jshint.com/)
 
 | File| Screenshot | Notes |
 | --- | --- | --- | 
